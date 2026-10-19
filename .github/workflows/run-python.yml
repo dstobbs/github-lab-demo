@@ -1,7 +1,5 @@
-```yaml
 name: Run Python Script
 
-# When to run the workflow
 on:
   push:
     branches: [ main ]
